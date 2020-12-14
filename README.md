@@ -6,4 +6,4 @@ This repo contains my solutions to the 3 assignments of the course [CS231n - Con
 * Image Captioning with LSTMs
 * Network Visualization: Saliency maps, Class Visualization, and Fooling Images (*done in PyTorch*)
 * Style Transfer (*done in PyTorch*)
-* Generative Adversarial Networks (*done in PyTorch*)
+* [Generative Adversarial Networks](assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)  (*done in PyTorch*)
